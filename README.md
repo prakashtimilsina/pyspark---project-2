@@ -9,5 +9,4 @@ Project Description:
     Databricks to cleans data and perform analytics on top of it.
     
     
- 
- ![image](https://user-images.githubusercontent.com/80721127/191396471-40a0fd69-ba7f-4179-a562-6d5dc90173c3.png)
+ ![image](https://user-images.githubusercontent.com/80721127/191398128-dd6bbc2b-7faf-4ecc-a050-5177a9955fa7.png)
